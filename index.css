@@ -1,0 +1,17 @@
+p
+{
+text-align: left;
+color: maroon;
+}
+
+h2,
+{
+text-align: left;
+color: black
+}
+
+table, th td
+{
+border: 1px solid red;
+color: black;
+}
